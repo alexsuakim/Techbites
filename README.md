@@ -14,11 +14,11 @@ These are the tech/AI video podcasts that I contributed in making (presented and
 
 ## Maximise productivity with Notion
 - <a href="https://app.preface.ai/techbites/5IhYg6nX6iTZAb5yToCB3y">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## Art Meets Technology: How Pixar Transformed Elemental’s Fire Using AI
 - <a href="https://app.preface.ai/techbites/1ILQGbTZQZiJROKiUJgTiB">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## AI Magic Unleashed: 5 Adobe MAX Highlights You Can’t Miss!
 - <a href="https://app.preface.ai/techbites/1CeNulnQsqWI2sAYIvtRZD">Techbites</a>
@@ -26,11 +26,11 @@ These are the tech/AI video podcasts that I contributed in making (presented and
 
 ## Would you try the AI Yearbook Photo Trend?
 - <a href="https://app.preface.ai/techbites/32vwr7TBYNyyalf40K4UAT">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## Meta's Threads vs. Twitter: The Battle for Social Media Supremacy
 - <a href="https://app.preface.ai/techbites/7hIxmSogD9c16YHrJ7Yf16">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## Sentiment Analysis: How Machines Can Read Emotions and Benefit Businesses
 - <a href="https://app.preface.ai/techbites/5KdAB69MzjqgXRfumj72fM">Techbites</a>
@@ -38,15 +38,15 @@ These are the tech/AI video podcasts that I contributed in making (presented and
 
 ## What we’re learning from the Reddit blackout
 - <a href="https://app.preface.ai/techbites/mwNuyaHdTVOp93lFHeXlu">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## Chips War: Part 2 - The Tension Between Countries
 - <a href="https://app.preface.ai/techbites/TP6UCD8X3hbzvdX0AVpAp">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## How Layoffs and AI Are Changing Tech’s Once-Invincible Job Market
 - <a href="https://app.preface.ai/techbites/4508KmBidh8q1yB8jDHZ8a">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## Is Google’s Dominance in the Search Engine Market at Risk? The Emergence of AI-powered Competitors Explained
 - <a href="https://app.preface.ai/techbites/2VbXqIKsUK2VsoBnGhD434">Techbites</a>
@@ -54,7 +54,7 @@ These are the tech/AI video podcasts that I contributed in making (presented and
 
 ## EV Trends: Environment or Security?
 - <a href="https://app.preface.ai/techbites/7Qn3SSVInBLWtRFJK3b7t">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## Is Anthropic Claude the Most Ethical AI?
 - <a href="https://app.preface.ai/techbites/2dwD2Jpi44Jp9n2cjmerBx">Techbites</a>
@@ -74,42 +74,37 @@ These are the tech/AI video podcasts that I contributed in making (presented and
 
 ## Can and Should AI be Human-like?
 - <a href="https://app.preface.ai/techbites/22dtOUgIDO9XzJ7elqWMg1">Techbites</a>
-- <a href="">YouTube</a>
+- YouTube
 
 ## AI or Art? Discover Dall·E 3's Mind-Reading Abilities in Image Creation with GPT-4V Magic!
 - <a href="https://app.preface.ai/techbites/7kBkvbnNBl01rXofpIyI2a">Techbites</a>
 - <a href="https://www.youtube.com/watch?v=GZaNI8pOF6Q">YouTube</a>
 
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
+## Project IDX - Would Google’s AI-powered IDE Replace VSCode?
+- <a href="https://app.preface.ai/techbites/3Z9QuUiSpwwNTjEMGiwoV2">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=_F0USFM7CAk">YouTube</a>
 
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
+## JavaScript vs TypeScript: Battle of the Best Web Programming Language
+- <a href="https://app.preface.ai/techbites/1qvuzEMtOFpmzWj1YNxmXo">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=0EZPX6_RVTQ">YouTube</a>
 
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
+## Future or Fiction? Are Robot Wall-Es and R2D2s the Next Everyday Companions?
+- <a href="https://app.preface.ai/techbites/79K4298W7u2CiLIYHPI7MK">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=KsGRC44_AF8">YouTube</a>
 
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
+## What's Beyond ChatGPT? Explore the Game-Changing Tech of 2023!
+- <a href="https://app.preface.ai/techbites/4CPSoKSVdTsGsfYNBHbO68">Techbites</a>
+- YouTube
 
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
+## 2023 Dec Tech Updates: Gemini, Grok & Meta AI
+- <a href="https://app.preface.ai/techbites/F00UBVvrDoVk4erG6h9xw">Techbites</a>
+- YouTube
+  
+## Twitch and Network Usage Fees in South Korea
+- Techbites
+- YouTube
 
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
-
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
-
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
-
+## Github Copilot & sketch2code
+- Techbites
+- YouTube
 
