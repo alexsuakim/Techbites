@@ -44,41 +44,41 @@ These are the tech/AI video podcasts that I contributed in making (presented and
 - <a href="https://app.preface.ai/techbites/TP6UCD8X3hbzvdX0AVpAp">Techbites</a>
 - <a href="">YouTube</a>
 
-## 
-- <a href="">Techbites</a>
+## How Layoffs and AI Are Changing Tech’s Once-Invincible Job Market
+- <a href="https://app.preface.ai/techbites/4508KmBidh8q1yB8jDHZ8a">Techbites</a>
 - <a href="">YouTube</a>
 
-## 
-- <a href="">Techbites</a>
+## Is Google’s Dominance in the Search Engine Market at Risk? The Emergence of AI-powered Competitors Explained
+- <a href="https://app.preface.ai/techbites/2VbXqIKsUK2VsoBnGhD434">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=XXcP4bCu6yM">YouTube</a>
+
+## EV Trends: Environment or Security?
+- <a href="https://app.preface.ai/techbites/7Qn3SSVInBLWtRFJK3b7t">Techbites</a>
 - <a href="">YouTube</a>
 
-## 
-- <a href="">Techbites</a>
+## Is Anthropic Claude the Most Ethical AI?
+- <a href="https://app.preface.ai/techbites/2dwD2Jpi44Jp9n2cjmerBx">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=8r2PE6KmaUQ&t=116s">YouTube</a>
+
+## AI-Powered Personalised Image Generation
+- <a href="https://app.preface.ai/techbites/5AiRsT0OE0l3pvLwoizkCq">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=0tgJi_MsLKk">YouTube</a>
+
+## New Language Mojo. Will Python be replaced?
+- <a href="https://app.preface.ai/techbites/792INWDIry6HVdnn4rXPiS">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=p0dCj1JL8AM&t=109s">YouTube</a>
+
+## The Hollywood Strike: Creatives vs. AI and Studios
+- <a href="https://app.preface.ai/techbites/2zJMdLwabTN3UHTcxDih8O">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=YdItMOzFvts&t=122s">YouTube</a>
+
+## Can and Should AI be Human-like?
+- <a href="https://app.preface.ai/techbites/22dtOUgIDO9XzJ7elqWMg1">Techbites</a>
 - <a href="">YouTube</a>
 
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
-
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
-
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
-
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
-
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
-
-## 
-- <a href="">Techbites</a>
-- <a href="">YouTube</a>
+## AI or Art? Discover Dall·E 3's Mind-Reading Abilities in Image Creation with GPT-4V Magic!
+- <a href="https://app.preface.ai/techbites/7kBkvbnNBl01rXofpIyI2a">Techbites</a>
+- <a href="https://www.youtube.com/watch?v=GZaNI8pOF6Q">YouTube</a>
 
 ## 
 - <a href="">Techbites</a>
