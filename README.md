@@ -1,6 +1,6 @@
 # Techbites
-<a href="https://app.preface.ai/techbites">Preface Techbites website</a>
-<a href="https://www.youtube.com/@prefaceai">Preface YouTube</a>
+- <a href="https://app.preface.ai/techbites">Preface Techbites website</a>
+- <a href="https://www.youtube.com/@prefaceai">Preface YouTube</a>
 
 These are the tech/AI video podcasts that I contributed in making (presented and/or scripted) for <a href="https://www.preface.ai/">Preface</a>, which is a coding education company based in Hong Kong.
 
